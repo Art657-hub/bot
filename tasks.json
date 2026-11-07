@@ -1,0 +1,17 @@
+{
+  "users": {
+    "1255380397": {
+      "tasks": [
+        {
+          "id": 1,
+          "text": "сериал",
+          "due": "2026-11-07T08:00",
+          "status": "active",
+          "repeat": true,
+          "interval": 30
+        }
+      ],
+      "quiet": true
+    }
+  }
+}
